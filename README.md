@@ -19,7 +19,7 @@ The data for this project is sourced from Kaggle Dataset:
 - Mapped numerical season codes to descriptive labels
 - Saved the cleaned dataset to an [Excel file](https://github.com/ver369/London_bike_rides_project/blob/main/london_bikes_final.xlsx), which was later used for visualization in Tableau.
 ## Step 2. Data Visualization using Tableau
-![Tableau Dashboard](https://github.com/ver369/London_bike_rides_project/blob/main/Tableau%20Vizualization.png)(https://public.tableau.com/shared/CPG8F6J62?:display_count=n&:origin=viz_share_link)
+![Tableau Dashboard](https://github.com/ver369/London_bike_rides_project/blob/main/Tableau%20Vizualization.png) [Linl to my dashboard](https://public.tableau.com/shared/CPG8F6J62?:display_count=n&:origin=viz_share_link)
 
 I built an interactive visualization in Tableau, which includes:
 - A moving average chart to highlight overall trends in bike usage.
