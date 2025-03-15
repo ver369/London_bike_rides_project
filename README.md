@@ -1,5 +1,26 @@
 # London Bike Rides Project using Python & Tableau
 
-![Tableau Dashboard](https://github.com/ver369/London_bike_rides_project/blob/main/Tableau%20Vizualization.png)(https://public.tableau.com/shared/CPG8F6J62?:display_count=n&:origin=viz_share_link)
+## Overview
+This project is based on a dataset of bike-sharing trips in London, containing information on ride counts, weather conditions (temperature, wind speed, humidity), and time-related factors (day of the week, time of day, etc.). The data allows for an analysis of how different factors influence bike usage.
 
+## Dataset
+The data for this project is sourced from Kaggle Dataset:
+
+- **Dataset Link** [London bike sharing dataset](https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset)
+
+## Step 1. Data Preprocessing using Python
+- Imported the dataset using Pandas and checked its structure
+- Renamed columns for better readability.
+- Converted humidity values to percentage format
+- Mapped numerical season codes to descriptive labels
+
+## Step 2. Data Visualization using Tableau
+![Tableau Dashboard](https://github.com/ver369/London_bike_rides_project/blob/main/Tableau%20Vizualization.png)(https://public.tableau.com/shared/CPG8F6J62?:display_count=n&:origin=viz_share_link)
+I built an interactive visualization in Tableau, which includes:
+- A moving average chart to highlight overall trends in bike usage.
+- A heatmap of temperature and wind speed to show the impact of weather on rides.
+- Filters to allow for a more detailed exploration of the data.
+
+  ## Conclusion
+  This project helps uncover seasonal and weather-related trends in bike traffic and provides a useful tool for data analysis. 
 
