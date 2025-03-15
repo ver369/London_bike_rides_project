@@ -12,11 +12,12 @@ The data for this project is sourced from Kaggle Dataset:
 
 ## Step 1. Data Preprocessing using Python
 [Data Processing](https://github.com/ver369/London_bike_rides_project/blob/main/london_bikes_project.ipynb)
+
 - Imported the dataset using Pandas and checked its structure
 - Renamed columns for better readability.
 - Converted humidity values to percentage format
 - Mapped numerical season codes to descriptive labels
-
+- Saved the cleaned dataset to an [Excel file](https://github.com/ver369/London_bike_rides_project/blob/main/london_bikes_final.xlsx), which was later used for visualization in Tableau.
 ## Step 2. Data Visualization using Tableau
 ![Tableau Dashboard](https://github.com/ver369/London_bike_rides_project/blob/main/Tableau%20Vizualization.png)(https://public.tableau.com/shared/CPG8F6J62?:display_count=n&:origin=viz_share_link)
 
