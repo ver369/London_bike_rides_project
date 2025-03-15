@@ -27,6 +27,6 @@ I built an interactive visualization in Tableau, which includes:
 - A heatmap of temperature and wind speed to show the impact of weather on rides.
 - Filters to allow for a more detailed exploration of the data.
 
-  ## Conclusion
-  This project helps uncover seasonal and weather-related trends in bike traffic and provides a useful tool for data analysis. 
+## Conclusion
+This project helps uncover seasonal and weather-related trends in bike traffic and provides a useful tool for data analysis. 
 
