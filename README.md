@@ -14,18 +14,18 @@ The data for this project is sourced from Kaggle Dataset:
 [Process of Working with Data](https://github.com/ver369/London_bike_rides_project/blob/main/london_bikes_project.ipynb)
 
 - Imported the dataset using Pandas and checked its structure
-- Renamed columns for better readability.
+- Renamed columns for better readability
 - Converted humidity values to percentage format
 - Mapped numerical season codes to descriptive labels
-- Saved the cleaned dataset to an [Excel file](https://github.com/ver369/London_bike_rides_project/blob/main/london_bikes_final.xlsx), which was later used for visualization in Tableau.
+- Saved the cleaned dataset to an [Excel file](https://github.com/ver369/London_bike_rides_project/blob/main/london_bikes_final.xlsx), which was later used for visualization in Tableau
 ## Step 2. Data Visualization using Tableau
 ![Tableau Dashboard](https://github.com/ver369/London_bike_rides_project/blob/main/Tableau%20Vizualization.png)
 [Link to the Dashboard](https://public.tableau.com/views/LondonBikeRides_17420621229300/Dashboard1?:language=en-US&:sid=E5AB52F791374C7083B2C5A8D10AC9DE-0:0&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 I built an interactive visualization in Tableau, which includes:
-- A moving average chart to highlight overall trends in bike usage.
-- A heatmap of temperature and wind speed to show the impact of weather on rides.
-- Filters to allow for a more detailed exploration of the data.
+- A moving average chart to highlight overall trends in bike usage
+- A heatmap of temperature and wind speed to show the impact of weather on rides
+- Filters to allow for a more detailed exploration of the data
 
 ## Conclusion
 This project helps uncover seasonal and weather-related trends in bike traffic and provides a useful tool for data analysis. 
