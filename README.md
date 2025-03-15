@@ -16,6 +16,7 @@ The data for this project is sourced from Kaggle Dataset:
 
 ## Step 2. Data Visualization using Tableau
 ![Tableau Dashboard](https://github.com/ver369/London_bike_rides_project/blob/main/Tableau%20Vizualization.png)(https://public.tableau.com/shared/CPG8F6J62?:display_count=n&:origin=viz_share_link)
+
 I built an interactive visualization in Tableau, which includes:
 - A moving average chart to highlight overall trends in bike usage.
 - A heatmap of temperature and wind speed to show the impact of weather on rides.
