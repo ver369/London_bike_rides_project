@@ -1,5 +1,7 @@
 # London Bike Rides Project using Python & Tableau
 
+![Bikes](https://github.com/ver369/London_bike_rides_project/blob/main/London%20bikes.jpg)
+
 ## Overview
 This project is based on a dataset of bike-sharing trips in London, containing information on ride counts, weather conditions (temperature, wind speed, humidity), and time-related factors (day of the week, time of day, etc.). The data allows for an analysis of how different factors influence bike usage.
 
